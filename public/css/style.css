@@ -38,3 +38,11 @@ body{
 .sus{
 	padding: 7px 0 7px 0;
 }
+.yolo{
+	background-color: blue;
+	color: white;
+	display: inline-block;
+	text-align: center;
+	padding-left: 8px;
+	padding-right: 8px;
+}
